@@ -26,7 +26,7 @@ Clone directory. Add your own .env file with databse name, user (root) and your 
 ## Usage
 <img width="1195" alt="Screen Shot 2022-04-30 at 3 17 23 PM" src="https://user-images.githubusercontent.com/94859458/166119668-b30634bc-ee2d-4842-9fef-7e248b49d9b6.png">
 
-<mark> Video Walkthrough is here: </mark> https://youtu.be/dDMkzF5S5HY
+<mark>Video Walkthrough is here:</mark> https://youtu.be/dDMkzF5S5HY
 
 ## Test Instructions
 No tests done other than Insomnia.
